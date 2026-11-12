@@ -1,0 +1,9 @@
+const user={
+    name: "Dulal",
+
+    printName(){
+        return this.name;
+    }
+}
+
+console.log(user.printName());
