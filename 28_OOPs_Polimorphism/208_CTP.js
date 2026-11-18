@@ -1,0 +1,1 @@
+// In javascript as of now compile time polimorphism not support.

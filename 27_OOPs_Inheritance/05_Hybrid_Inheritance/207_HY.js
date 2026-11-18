@@ -1,0 +1,1 @@
+// Hybrid inheritance is also not possible.
